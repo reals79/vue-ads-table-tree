@@ -1,3 +1,4 @@
+// comment
 <template>
     <div id="app">
         <table-tree
